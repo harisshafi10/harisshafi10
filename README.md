@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on mern projects
 - 📫 How to reach me harisshafi01@gmail.com
-- 😄 Pronouns: ... he
 - ⚡ Fun fact: ... still learing
 
 <!---
