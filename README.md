@@ -42,11 +42,13 @@ src="https://img.shields.io/twitter/follow/Harisshafi3?logo=twitter&style=for-th
 <a href="https://github.com/Harisshafi10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisshafi10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
+Link are not working Contact Me if you want to Support  Me 
+Email:    harisshafi01@gmail.com
+ Contact: +91 7006782185
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Harisshafi01"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Harisshafi01"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://#"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
