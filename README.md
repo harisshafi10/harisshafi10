@@ -7,7 +7,7 @@ Web developer
 I am a web developer
 
 * 🌍  I'm based in Srinagar
-* 🖥️  See my portfolio at [My portfolio](http://portfolio-haris-shafi.vercel.app)
+* 🖥️  See my portfolio at [My portfolio](https://haris-shafi-portfolio.vercel.app/)
 * ✉️  You can contact me at [harisshafi01@gmail.com](mailto:harisshafi01@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Intersting project
