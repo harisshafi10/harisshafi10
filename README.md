@@ -9,7 +9,7 @@ I am a web developer
 * 🌍  I'm based in Srinagar
 * 🖥️  See my portfolio at [My portfolio](https://haris-shafi-portfolio.vercel.app/)
 * ✉️  You can contact me at [harisshafi01@gmail.com](mailto:harisshafi01@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on Intersting project
 
 <a href="https://www.github.com/Harisshafi10" target="_blank" rel="noreferrer"><img
