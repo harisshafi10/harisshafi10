@@ -48,6 +48,6 @@ Email:    harisshafi01@gmail.com
 <ul style="list-style-type: none; margin: 0;">
 
 <li>### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</li>
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></a>
 
 </ul>
