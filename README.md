@@ -42,8 +42,8 @@ src="https://img.shields.io/twitter/follow/Harisshafi3?logo=twitter&style=for-th
 <a href="https://github.com/Harisshafi10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisshafi10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-Link are not working Contact Me if you want to Support  Me 
-Email:    harisshafi01@gmail.com
+Link are not working Contact Me if you want to Support  Me <br/>
+Email:    harisshafi01@gmail.com <br/>
  Contact: +91 7006782185
 
 ### ✍️ Random Dev Quote
