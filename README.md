@@ -45,9 +45,7 @@ src="https://img.shields.io/twitter/follow/Harisshafi3?logo=twitter&style=for-th
 Link are not working Contact Me if you want to Support  Me 
 Email:    harisshafi01@gmail.com
  Contact: +91 7006782185
-<ul style="list-style-type: none; margin: 0;">
 
-<li>### ✍️ Random Dev Quote
-<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></a>
 
-</ul>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harisshafi10&limit=5&theme=dark&combine_all_yearly_contributions=true)
