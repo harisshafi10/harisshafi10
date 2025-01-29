@@ -46,6 +46,5 @@ Link are not working Contact Me if you want to Support  Me
 Email:    harisshafi01@gmail.com
  Contact: +91 7006782185
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harisshafi10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
