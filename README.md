@@ -17,6 +17,9 @@ src="https://img.shields.io/github/followers/Harisshafi10?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/Harisshafi3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/harisshafi01.png" alt="Your Image Badge" />
+
+
 ### Skills
 
 
