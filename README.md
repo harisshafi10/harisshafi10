@@ -10,7 +10,7 @@ I am a web developer
 * 🖥️  See my portfolio at [My portfolio](https://haris-shafi-portfolio.vercel.app/)
 * ✉️  You can contact me at [harisshafi01@gmail.com](mailto:harisshafi01@gmail.com)
 * 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on Intersting project
+* 🤝  I'm open to collaborating on Interesting project
 
 <a href="https://www.github.com/Harisshafi10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Harisshafi10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Harisshafi3" target="_blank" rel="noreferrer"><img
